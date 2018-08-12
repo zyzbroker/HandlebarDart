@@ -61,7 +61,7 @@ class Blog {
 ```
 
 **Note** that you have to create context contract to be able to pass blogs to the html template. 
-You don't need to do that. you can pass in Map literal object but you have to use pacakge js to wrap around the map literal object as shown below
+You don't need to do that. you can pass in Map literal object but you have to use package js to wrap around the map literal object as shown below
 
 ```dart
 
