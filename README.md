@@ -77,4 +77,4 @@ You don't need to do that. you can pass in Map literal object but you have to us
 
 Here is the result on the web page
 
-[Template Result](/images/screen-shot.png)
+![Template Result](/images/screen-shot.png)
