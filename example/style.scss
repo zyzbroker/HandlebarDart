@@ -1,0 +1,31 @@
+.container {
+    padding: 40px;
+    margin: 40px;
+    height: 100%;
+    border: 1px solid #ddd;
+    display: flex;
+    flex-grow: 1;
+    align-items: center;
+
+    .loading {
+        width: 100%;
+        text-align: center;
+    }
+
+    .entry {
+        display: inline-block;
+        padding: 40px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        margin: 20px;
+
+        .body {
+            color: blue;
+        }
+    }
+
+    .entry:hover {
+        border-color: #888;
+        cursor: pointer;
+    }
+}

@@ -1,0 +1,16 @@
+name: handlebars.js
+description: A dart wrapper around handlebars.js
+version: 0.0.1
+author: David Zhao <david.zhao@resentek.com>
+
+environment:
+  skd: '>=2.0.0-dev < 3.0.0'
+
+dependencies:
+  js: ^0.6.1+1
+
+
+dev_dependencies:
+  build_runner: ^0.10.0
+  build_web_compilers: ^0.4.0
+  sass_builder: "^2.1.1"

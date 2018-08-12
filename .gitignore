@@ -1,0 +1,8 @@
+#folers
+.idea/
+.dart_tool/
+build/
+
+#files
+.packages
+pubspec.lock
