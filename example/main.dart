@@ -1,6 +1,6 @@
 import 'dart:html';
 
-import 'package:handlebars/handlebars.dart' as Handlebars;
+import 'package:handlebars2/handlebars2.dart' as Handlebars;
 
 void main(){
   var container = document.querySelector('.container');

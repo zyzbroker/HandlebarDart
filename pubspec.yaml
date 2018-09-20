@@ -1,7 +1,8 @@
-name: handlebars
+name: handlebars2
 description: A dart wrapper around handlebars.js
 version: 0.0.1
 author: David Zhao <david.zhao@resentek.com>
+homepage: https://github.com/zyzbroker/HandlebarDart
 
 environment:
   sdk: '>=2.0.0 <3.0.0'
