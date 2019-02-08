@@ -9,9 +9,10 @@ environment:
 
 dependencies:
   js: ^0.6.1+1
+  bootstrap_sass: any
 
 
 dev_dependencies:
-  build_runner: ^0.10.2
-  build_web_compilers: ^0.4.3
-  sass_builder: "^2.1.1"
+  build_runner: ^1.2.5
+  build_web_compilers: ^1.1.0
+  sass_builder: ^2.1.2
