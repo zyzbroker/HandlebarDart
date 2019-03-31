@@ -1,16 +1,7 @@
-.container {
-    padding: 40px;
-    margin: 40px;
-    height: 100%;
-    border: 1px solid #ddd;
-    display: flex;
-    flex-grow: 1;
-    align-items: center;
+@import "package:rst_bootstrap/scss/bootstrap";
 
-    .loading {
-        width: 100%;
-        text-align: center;
-    }
+.container {
+    align-items: center;
 
     .entry {
         display: inline-block;
