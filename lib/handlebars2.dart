@@ -139,7 +139,7 @@ external dynamic noConflict();
 @JS("Handlebars.SafeString")
 class SafeString {
   // @Ignore
-  SafeString.fakeConstructor$();
+  external SafeString.fakeConstructor$();
   external factory SafeString(String str);
   external String toString();
   external String toHTML();
@@ -672,7 +672,7 @@ abstract class ICompiler {
 @JS("Handlebars.Visitor")
 class Visitor implements ICompiler {
   // @Ignore
-  Visitor.fakeConstructor$();
+  external Visitor.fakeConstructor$();
   external void accept(Node node);
   external void acceptKey(Node node, String name);
   external void acceptArray(List<Expression> arr);
